@@ -1,0 +1,8 @@
+{
+    "supportFile": "cypress/support/index.js",
+    "watchForFileChanges": true,
+    "responseTimeout": 60000,
+    "screenshotOnRunFailure": false,
+    "video": true,
+    "baseUrl": "https://opensource-demo.orangehrmlive.com"
+}
